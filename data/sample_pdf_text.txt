@@ -1,0 +1,7 @@
+Vector similarity search helps us find text that is most similar to a query.
+
+A PDF file usually contains unstructured text, so we first extract the text page by page.
+
+After extraction, we split the text into smaller chunks and convert those chunks into vectors.
+
+Then we compare a user query against those chunk vectors using cosine similarity.

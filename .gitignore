@@ -1,0 +1,13 @@
+.DS_Store
+.env
+.venv/
+__pycache__/
+*.pyc
+
+uploaded_files/
+
+data/*_embeddings.npy
+data/*_faiss.index
+data/*_units.json
+
+src/__pycache__/
