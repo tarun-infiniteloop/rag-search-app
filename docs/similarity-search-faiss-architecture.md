@@ -55,7 +55,7 @@ User Question
 +-------------------+
 ```
 
-## 2. Cartoon Version
+## 2. Demo Version
 
 ```text
 [Question]
