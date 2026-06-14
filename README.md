@@ -35,6 +35,10 @@ src/
   step4_embedding_search.py CLI-style entrypoint
 ```
 
+## Extra docs
+
+- [Similarity Search + FAISS Architecture](docs/similarity-search-faiss-architecture.md)
+
 ## Requirements
 
 - Python 3.11
